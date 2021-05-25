@@ -1,0 +1,1 @@
+export const TRANSFER_SERVICE = 'TRANSFER_SERVICE'
