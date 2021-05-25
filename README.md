@@ -22,7 +22,7 @@
 
 ## Platform
 >* NATS (Для запуска необходим сервер, для разработки можно использовать
-   > docker-compose.yml из корня проекта)
+   > docker-compose.yml из корня проекта Reader)
 >* NodeJs
 >* NestJs
 
